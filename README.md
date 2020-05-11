@@ -1,2 +1,6 @@
 # vue-room
-hummer rts/chatroom/im js-sdk demo
+channel, chatroom, im vue-demo
+
+线上demo:
+
+>https://hummer-test.sunclouds.com/room-channel-test/channel-test
